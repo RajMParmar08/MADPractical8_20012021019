@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/drawable/alarm_image_list.xml" value="0.109" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/drawable/heart_image_list.xml" value="0.109" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/drawable/ractangle_gradient.xml" value="0.109" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/layout/activity_main.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/layout/activity_splash.xml" value="0.16168478260869565" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/drawable/ractangle_gradient.xml" value="0.1525" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/drawable/uvpce_logo_list.xml" value="0.1525" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical8_20012021019/app/src/main/res/layout/activity_splash.xml" value="0.1" />

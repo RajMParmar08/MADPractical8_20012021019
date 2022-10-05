@@ -1,5 +1,6 @@
 package com.example.madpractical8_20012021019
 
+import android.content.Intent
 import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -38,7 +39,7 @@ class SplashActivity : AppCompatActivity(),Animation.AnimationListener{
     }
 
     override fun onAnimationEnd(p0: Animation?) {
-        Intent(this,MainActivity::class.java.also { startActivity(it) })
+        Intent(this,MainActivity::class.java).also { startActivity(it) }
         overridePendingTransition(R.anim.scale_center_in,R.anim.scale_center_out)
         finish()
     }
